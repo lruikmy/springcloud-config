@@ -1,7 +1,7 @@
 com:
   lruikmy:
     name: zhangsan
-	
+
 eureka:
   client:
     service-url:
